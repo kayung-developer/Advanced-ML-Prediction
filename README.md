@@ -45,8 +45,8 @@ A powerful and user-friendly graphical user interface (GUI) for analyzing and pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kayung-developer/advanced-ml-prediction.git
-   cd advanced-ml-prediction
+   git clone https://github.com/kayung-developer/Advanced-ML-Prediction.git
+   cd Advanced-ML-Prediction
    ```
 2. Install the required dependencies:
 ```bash
@@ -103,9 +103,9 @@ GitHub: <a href="https://github.com/kayung-developer">kayung-developer</a>
 LinkedIn: <a href="https://linkedin.com/in/kayung-developer">kayung-developer</a>
 For inquiries, feel free to reach out via GitHub Issues.
 
-```markdown
+```markdownhttps://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 ### Notes:
 1. Replace placeholder links (e.g., `light_theme.png`, `dark_theme.png`) with actual file paths or URLs.
 2. Ensure that the `requirements.txt` file lists all dependencies used in the project.
-3. Include screenshots of your application in the `docs/images` directory if applicable.
+3. Include screenshots of your application in the `screenshot` directory if applicable.
 ```
